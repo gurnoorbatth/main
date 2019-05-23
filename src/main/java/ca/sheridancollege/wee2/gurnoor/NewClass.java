@@ -24,6 +24,7 @@ public class NewClass {
      */
     public void setHello(int hello) {
         this.hello = hello;
+        //hello
     }
     
     
